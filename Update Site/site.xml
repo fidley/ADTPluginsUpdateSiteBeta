@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/ABAP_Favorites_Feature_Project_1.0.57.202001042050.jar" id="ABAP_Favorites_Feature_Project" version="1.0.57.202001042050">
+   <feature url="features/ABAP_Favorites_Feature_Project_1.0.60.202006051031.jar" id="ABAP_Favorites_Feature_Project" version="1.0.60.202006051031">
       <category name="ABAP Favorites"/>
    </feature>
-   <feature url="features/com.abapblog.adt.quickfix.feature_1.0.4.202001042050.jar" id="com.abapblog.adt.quickfix.feature" version="1.0.4.202001042050">
+   <feature url="features/com.abapblog.adt.extension.feature_1.0.6.202006051031.jar" id="com.abapblog.adt.extension.feature" version="1.0.6.202006051031">
       <category name="ADT Extensions"/>
    </feature>
-   <feature url="features/com.abapblog.adt.extension.feature_1.0.5.202003130207.jar" id="com.abapblog.adt.extension.feature" version="1.0.5.202003130207">
+   <feature url="features/com.abapblog.adt.quickfix.feature_1.0.6.202006102004.jar" id="com.abapblog.adt.quickfix.feature" version="1.0.6.202006102004">
       <category name="ADT Extensions"/>
    </feature>
    <category-def name="ABAP Favorites" label="ABAP Favorites"/>
