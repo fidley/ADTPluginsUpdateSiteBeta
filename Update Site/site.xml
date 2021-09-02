@@ -6,7 +6,7 @@
    <feature url="features/com.abapblog.adt.extension.feature_1.0.6.202006051031.jar" id="com.abapblog.adt.extension.feature" version="1.0.6.202006051031">
       <category name="ADT Extensions"/>
    </feature>
-   <feature url="features/com.abapblog.adt.quickfix.feature_1.0.9.202007081024.jar" id="com.abapblog.adt.quickfix.feature" version="1.0.9.202007081024">
+   <feature url="features/com.abapblog.adt.quickfix.feature_1.0.14.202104141941.jar" id="com.abapblog.adt.quickfix.feature" version="1.0.14.202104141941">
       <category name="ADT Extensions"/>
    </feature>
    <category-def name="ABAP Favorites" label="ABAP Favorites"/>
