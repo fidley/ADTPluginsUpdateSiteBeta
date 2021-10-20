@@ -9,6 +9,9 @@
    <feature url="features/com.abapblog.adt.quickfix.feature_1.0.14.202104141941.jar" id="com.abapblog.adt.quickfix.feature" version="1.0.14.202104141941">
       <category name="ADT Extensions"/>
    </feature>
+   <feature url="features/ADT_Classic_Outline_Feature_1.0.0.202110202006.jar" id="ADT_Classic_Outline_Feature" version="1.0.0.202110202006">
+      <category name="ADT Extensions"/>
+   </feature>
    <category-def name="ABAP Favorites" label="ABAP Favorites"/>
    <category-def name="ADT Extensions" label="ADT Extensions"/>
 </site>
