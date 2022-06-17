@@ -9,7 +9,7 @@
    <feature url="features/com.abapblog.adt.quickfix.feature_1.1.1.202206152039.jar" id="com.abapblog.adt.quickfix.feature" version="1.1.1.202206152039">
       <category name="ADT Extensions"/>
    </feature>
-   <feature url="features/com.abapblog.adt.extension.feature_1.0.7.202206171340.jar" id="com.abapblog.adt.extension.feature" version="1.0.7.202206171340">
+   <feature url="features/com.abapblog.adt.extension.feature_1.0.7.202206171435.jar" id="com.abapblog.adt.extension.feature" version="1.0.7.202206171435">
       <category name="ADT Extensions"/>
    </feature>
    <category-def name="ABAP Favorites" label="ABAP Favorites"/>
