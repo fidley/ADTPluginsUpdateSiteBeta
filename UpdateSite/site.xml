@@ -3,13 +3,13 @@
    <feature url="features/ABAP_Favorites_Feature_Project_1.0.60.202006051031.jar" id="ABAP_Favorites_Feature_Project" version="1.0.60.202006051031">
       <category name="ABAP Favorites"/>
    </feature>
-   <feature url="features/ADT_Classic_Outline_Feature_1.0.1.202210252157.jar" id="ADT_Classic_Outline_Feature" version="1.0.1.202210252157">
-      <category name="ADT Extensions"/>
-   </feature>
    <feature url="features/com.abapblog.adt.extension.feature_1.0.7.202210252157.jar" id="com.abapblog.adt.extension.feature" version="1.0.7.202210252157">
       <category name="ADT Extensions"/>
    </feature>
    <feature url="features/com.abapblog.adt.quickfix.feature_1.1.1.202210252157.jar" id="com.abapblog.adt.quickfix.feature" version="1.1.1.202210252157">
+      <category name="ADT Extensions"/>
+   </feature>
+   <feature url="features/ADT_Classic_Outline_Feature_1.0.1.202210260842.jar" id="ADT_Classic_Outline_Feature" version="1.0.1.202210260842">
       <category name="ADT Extensions"/>
    </feature>
    <category-def name="ABAP Favorites" label="ABAP Favorites"/>
