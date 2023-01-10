@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/ABAP_Favorites_Feature_Project_1.0.61.202212191814.jar" id="ABAP_Favorites_Feature_Project" version="1.0.61.202212191814">
-      <category name="ABAP Favorites"/>
-   </feature>
    <feature url="features/com.abapblog.adt.extension.feature_1.0.7.202301042314.jar" id="com.abapblog.adt.extension.feature" version="1.0.7.202301042314">
       <category name="ADT Extensions"/>
    </feature>
@@ -11,6 +8,9 @@
    </feature>
    <feature url="features/ADT_Classic_Outline_Feature_1.0.3.202301091035.jar" id="ADT_Classic_Outline_Feature" version="1.0.3.202301091035">
       <category name="ADT Extensions"/>
+   </feature>
+   <feature url="features/ABAP_Favorites_Feature_Project_1.0.61.202301102258.jar" id="ABAP_Favorites_Feature_Project" version="1.0.61.202301102258">
+      <category name="ABAP Favorites"/>
    </feature>
    <category-def name="ABAP Favorites" label="ABAP Favorites"/>
    <category-def name="ADT Extensions" label="ADT Extensions"/>
