@@ -12,7 +12,7 @@
    <feature url="features/ADT_Classic_Outline_Feature_1.0.4.202308291205.jar" id="ADT_Classic_Outline_Feature" version="1.0.4.202308291205">
       <category name="ADT Extensions"/>
    </feature>
-   <feature url="features/com.abapblog.verticaltabs.feature_0.0.4.202309052238.jar" id="com.abapblog.verticaltabs.feature" version="0.0.4.202309052238">
+   <feature url="features/com.abapblog.verticaltabs.feature_0.0.4.qualifier.jar" id="com.abapblog.verticaltabs.feature" version="0.0.4.qualifier">
       <category name="Vertical Tabs"/>
    </feature>
    <category-def name="ABAP Favorites" label="ABAP Favorites"/>
