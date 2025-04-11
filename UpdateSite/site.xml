@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.abapblog.adt.extension.feature_1.0.7.qualifier.jar" id="com.abapblog.adt.extension.feature" version="1.0.7.qualifier">
-      <category name="ADT Extensions"/>
-   </feature>
    <feature url="features/ADT_Classic_Outline_Feature_1.0.5.qualifier.jar" id="ADT_Classic_Outline_Feature" version="1.0.5.qualifier">
       <category name="ADT Extensions"/>
-   </feature>
-   <feature url="features/ABAP_Favorites_Feature_Project_1.0.64.202405241607.jar" id="ABAP_Favorites_Feature_Project" version="1.0.64.202405241607">
-      <category name="ABAP Favorites"/>
-   </feature>
-   <feature url="features/com.abapblog.verticaltabs.abap.feature_0.0.2.202502111738.jar" id="com.abapblog.verticaltabs.abap.feature" version="0.0.2.202502111738">
-      <category name="Vertical Tabs Language Specific Features"/>
    </feature>
    <feature url="features/com.abapblog.verticaltabs.feature_0.0.7.202502121144.jar" id="com.abapblog.verticaltabs.feature" version="0.0.7.202502121144">
       <category name="Vertical Tabs"/>
    </feature>
    <feature url="features/com.abapblog.adt.quickfix.feature_1.1.7.202503071003.jar" id="com.abapblog.adt.quickfix.feature" version="1.1.7.202503071003">
       <category name="ADT Extensions"/>
+   </feature>
+   <feature url="features/com.abapblog.verticaltabs.abap.feature_0.0.2.202503311558.jar" id="com.abapblog.verticaltabs.abap.feature" version="0.0.2.202503311558">
+      <category name="Vertical Tabs Language Specific Features"/>
+   </feature>
+   <feature url="features/com.abapblog.adt.extension.feature_1.0.8.qualifier.jar" id="com.abapblog.adt.extension.feature" version="1.0.8.qualifier">
+      <category name="ADT Extensions"/>
+   </feature>
+   <feature url="features/ABAP_Favorites_Feature_Project_1.0.66.202504112032.jar" id="ABAP_Favorites_Feature_Project" version="1.0.66.202504112032">
+      <category name="ABAP Favorites"/>
    </feature>
    <category-def name="ABAP Favorites" label="ABAP Favorites"/>
    <category-def name="ADT Extensions" label="ADT Extensions"/>
